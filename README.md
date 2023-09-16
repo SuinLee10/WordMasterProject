@@ -17,3 +17,4 @@
 - 데이터 load(loadFile) 실행결과<br>
 <img src = "https://github.com/SuinLee10/WordMasterProject/blob/master/result_loadFile.png" width = "400"> <br>
 - 나가기 실행결과<br>
+<img src ="https://github.com/SuinLee10/WordMasterProject/blob/master/result_end.png" width = "400"> <br>
